@@ -1,0 +1,16 @@
+data/
+datasets/
+*.csv
+*.zip
+*.tar
+*.h5
+
+*.pt
+*.pth
+*.hdf5
+*.onnx
+runs/
+checkpoints/
+
+__pycache__/
+*.log
